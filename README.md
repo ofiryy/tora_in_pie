@@ -7,5 +7,6 @@ cd pie_in_tora
 python3 caclculate.py
 
 ```
-Pie digits source: https://www.math.utah.edu/~alfeld/math/pi.html 
+Pie digits source: https://www.math.utah.edu/~alfeld/math/pi.html
+
 Inspired by: https://www.youtube.com/watch?v=bMD8fQuX1N4 
