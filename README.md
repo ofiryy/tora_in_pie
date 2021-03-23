@@ -1,4 +1,4 @@
-# pie_in_tora
+# tora_in_pie
 
 ## Just copy and paste in your terminal (try in git bash in windows)
 ```
