@@ -2,7 +2,7 @@
 
 ## Just copy and paste in your terminal (try in git bash in windows)
 ```
-git clone https://github.com/ofiryy/pie_in_tora.git
+git clone https://github.com/ofiryy/tora_in_pie.git
 cd pie_in_tora
 python3 caclculate.py
 
